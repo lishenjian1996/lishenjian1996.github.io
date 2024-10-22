@@ -1,13 +1,12 @@
 title: "Shenjian's Personal Website"
 author:
   name: Shenjian Li
-  email: lishenjian2013@live.com
+  email: shenjian.li@postgrad.otago.ac.nz
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >-
- Distinction postgrad from the University of Birmingham.
- 2.5 years financial-related working experience in a $4bn size listed apparel company.
+ Shenjian is a PhD student with a fully funded scholarship in Finance, interested in Asset Pricing and Machine Learning.
 
 # Build settings
 
