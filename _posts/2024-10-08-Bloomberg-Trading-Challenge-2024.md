@@ -8,4 +8,4 @@ I am proud to participate in the 2024 Bloomberg Global Trading Challenge with my
 ![Bloomberg Trading Challenge 2024](/assets/images/Bloomberg-Trading-Challenge-2024.jpg)
 
 
-Shenjian, the Capitan of Otago Alpha
+Shenjian, the Captain of Otago Alpha
