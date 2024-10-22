@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Shenjian"
+title: "About Shenjian Li"
 permalink: /about/
 ---
 
