@@ -12,7 +12,7 @@ permalink: /projects/
     <p>
       Participating in the 2024 Bloomberg Global Trading Challenge with the Otago Alpha team.
     </p>
-    <a href="/projects/bloomberg-trading-challenge" class="project-link">Learn more</a>
+    <a href="/_posts/2024-10-08-Bloomberg-Trading-Challenge-2024.md" class="project-link">Learn more</a>
   </div>
 
   <!-- Circular Liquid Filler -->
