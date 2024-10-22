@@ -4,8 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# Projects
-
 ## Bloomberg Trading Challenge 2024
 Participating in the 2024 Bloomberg Global Trading Challenge with the Otago Alpha team.
 
