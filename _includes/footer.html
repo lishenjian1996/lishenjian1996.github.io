@@ -12,17 +12,27 @@
             </svg><span>Subscribe</span>
           </a>
         </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
+        {%- if site.author %}
+          <ul class="contact-list">
+            {% if site.author.name -%}
+              <li class="p-name">{{ site.author.name | escape }}</li>
+            {% endif -%}
+            {% if site.author.email -%}
+              <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            {%- endif %}
+          </ul>
+        {%- endif %}
       </div>
+
+      <!-- Adding LinkedIn link -->
+      <div class="footer-col">
+        <p>
+          Connect with me on 
+          <a href="https://www.linkedin.com/in/shenjian1996/" target="_blank">LinkedIn</a>
+        </p>
+      </div>
+      <!-- End of footer-col -->
+
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
@@ -33,5 +43,4 @@
     </div>
 
   </div>
-
 </footer>

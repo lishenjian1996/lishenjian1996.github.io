@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: "About Shenjian"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About Shenjian
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Shenjian is a PhD student with a fully funded scholarship in Finance, interested in Asset Pricing and Machine Learning. He has 2.5 years of practical experience in financial management at a HK$40 billion listed corporate group. He also has a comprehensive understanding from bottom to top and is well-versed in industry-finance integration.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to check out [LinkedIn profile](https://www.linkedin.com/in/shenjian1996/) for more information.
